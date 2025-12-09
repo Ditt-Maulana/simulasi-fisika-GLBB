@@ -2,6 +2,12 @@
 
 Aplikasi simulasi interaktif untuk mempelajari gerak parabola (projectile motion) menggunakan rumus fisika yang akurat. Aplikasi ini mengimplementasikan konsep-konsep fisika dasar seperti parabola, vektor, kinematika, kecepatan, dan hukum Newton.
 
+## 🌐 Live Demo
+
+**Aplikasi dapat diakses di:** [https://simulasi-fisika-glbb.vercel.app/](https://simulasi-fisika-glbb.vercel.app/)
+
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://simulasi-fisika-glbb.vercel.app/)
+
 ## 📚 Rumus Fisika yang Digunakan
 
 ### 1. **Vektor (Vector Mathematics)**
@@ -181,4 +187,4 @@ Aplikasi dapat di-deploy ke Vercel. Lihat file `DEPLOY.md` untuk panduan lengkap
 
 ---
 
-**Dibuat dengan ❤️ untuk pembelajaran fisika**
+**Dibuat oleh Ditt Maulana dengan ❤️ untuk project remidial fisika**
